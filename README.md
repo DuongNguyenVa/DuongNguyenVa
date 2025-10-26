@@ -1,25 +1,39 @@
-# Unity — Pummel Party-like Prototype
+# 👾 Unity Gameplay Developer — Portfolio
 
-A personal prototype built to study and practice core gameplay, AI logic, and general game feel.
+## 🧠 Skills
+**Programming**
+- Unity (C#), OOP, Coroutines, Custom Editor Tools
+- AI logic (FSM, Behaviour Trees, Utility AI), NavMesh, Physics
 
-## Tech Focus
-- Unity (URP)
-- Core gameplay systems
-- AI bots for party-style minigame context
-- VFX integration
-- Local solo architecture (no multiplayer)
+**Gameplay & Systems**
+- Core combat prototypes, animation events, hit detection
+- Camera systems, pooling, state machines, event systems
 
-## What I did
-- Designed & implemented core loop
-- Built AI agents to simulate party-game interactions
-- Implemented VFX and interaction feedback
+**Dev Workflow**
+- Git / GitHub, profiling & optimization, debugging
+- Rapid prototyping for research & design validation
 
-## Notes
-- No Asset Store content — all built from scratch
-- Made for learning / skill demonstration purposes
 
-## Repository
-Source: https://github.com/DuongNguyenVa/Unity_PummalPartyCP
+---
+
+## 🎮 Projects
+
+### 1) PummalPartyLOL — Reverse engineered party-game prototype  
+Research project to replicate & study core mechanics, AI decisions, and interaction triggers.  
+Repo: https://github.com/DuongNguyenVa/Unity_PummalPartyCP
+
+<!-- STREAMABLE DEMO PLACEHOLDER
+Video: (add link later)
+<iframe src="https://streamable.com/..." width="560" height="315" frameborder="0" allowfullscreen></iframe>
+-->
+
+
+### 2) <!-- PROJECT PLACEHOLDER TITLE -->
+<!-- SHORT DESCRIPTION PLACEHOLDER (1–2 lines) -->
+<!-- REPO: https://github.com/... -->
+<!-- VIDEO PLACEHOLDER (commented)
+<iframe src="https://streamable.com/..." ... ></iframe>
+-->
 
 
 <!--
