@@ -22,10 +22,7 @@
 Research project to replicate & study core mechanics, AI decisions, and interaction triggers.  
 Repo: https://github.com/DuongNguyenVa/Unity_PummalPartyCP
 
-<!-- STREAMABLE DEMO PLACEHOLDER
-Video: (add link later)
-<iframe src="https://streamable.com/..." width="560" height="315" frameborder="0" allowfullscreen></iframe>
--->
+Video:<iframe allow="fullscreen;autoplay" allowfullscreen height="626" src="https://streamable.com/e/bacrfm?autoplay=1&muted=1" width="1279" style="border:none;"></iframe>
 
 
 ### 2) <!-- PROJECT PLACEHOLDER TITLE -->
