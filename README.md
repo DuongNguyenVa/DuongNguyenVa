@@ -21,7 +21,7 @@
 ### 1) PummalPartyLOL — Reverse engineered party-game prototype  
 Research project to replicate & study core mechanics, AI decisions, and interaction triggers.  
 Repo: https://github.com/DuongNguyenVa/Unity_PummalPartyCP
-<img src="https://postimg.cc/XrZLxdCj" width="560">
+<img src="https://i.postimg.cc/8z4Ypbk6/pummel.png" width="560">
 Video: https://streamable.com/bacrfm
 
 
