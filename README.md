@@ -24,11 +24,11 @@ Repo: https://github.com/DuongNguyenVa/Unity_PummalPartyCP
 
 <img src="https://i.postimg.cc/8z4Ypbk6/pummel.png" width="560">
 
-Video: https://streamable.com/bacrfm
+Video: https://streamable.com/dq9mbq
 
 
 
-### 2) <!-- PROJECT PLACEHOLDER TITLE -->
+<!### 2) -- PROJECT PLACEHOLDER TITLE -->
 <!-- SHORT DESCRIPTION PLACEHOLDER (1–2 lines) -->
 <!-- REPO: https://github.com/... -->
 <!-- VIDEO PLACEHOLDER (commented)
