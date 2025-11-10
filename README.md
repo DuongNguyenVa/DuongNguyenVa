@@ -1,4 +1,4 @@
-# 👾 Unity Gameplay Developer — Portfolio
+# 👾 Unity Developer - Portfolio
 
 ## 🧠 Skills
 **Programming**
